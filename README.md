@@ -9,8 +9,8 @@ Exemplo:
 002;2345675433444345;Eduardo Gonsalvez Pereira;Rural
 001;3245678865434;Renato;4000.00
 003;10;11010;300;3403.30;Diego
-003;08;13410;540;2400.10;Renato
-Poderão ser submetidos vários arquivos para serem importados, o programa deve ler todos os arquivos 
+003;08;13410;540;2400.10;Renato\
+Poderão ser submetidos vários arquivos para serem importados, o programa deve ler todos os arquivos \
 com extensão .dat que forem colocados no diretório /dados/in/
 Após ler todos os dados o sistema deve criar um arquivo no diretório 
 /dados/out/${nomedoarquivolido}.dat.proc e dentro deste arquivo devem estar sumarizadas as seguintes 
