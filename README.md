@@ -4,11 +4,11 @@ informações, conforme as estruturas abaixo:
 2. Dados de Clientes: (002;CNPJ;nome;ramo de atividade)
 3. Dados de Vendas: (003;ID da venda;ID do item;qtde do item;preço do item;Nome do Vendedor)\
 Exemplo: \
-001;1234567891234;Diego;5000.00
-002;2345675434544345;Jose da Silva;Rural
-002;2345675433444345;Eduardo Gonsalvez Pereira;Rural
-001;3245678865434;Renato;4000.00
-003;10;11010;300;3403.30;Diego
+001;1234567891234;Diego;5000.00\
+002;2345675434544345;Jose da Silva;Rural\
+002;2345675433444345;Eduardo Gonsalvez Pereira;Rural\
+001;3245678865434;Renato;4000.00\
+003;10;11010;300;3403.30;Diego\
 003;08;13410;540;2400.10;Renato\
 Poderão ser submetidos vários arquivos para serem importados, o programa deve ler todos os arquivos \
 com extensão .dat que forem colocados no diretório /dados/in/
